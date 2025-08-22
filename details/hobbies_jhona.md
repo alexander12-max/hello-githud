@@ -1,5 +1,7 @@
 ##hobbies
 
-*Natacion
-*Escuchar nusica
-*Dibujar
+* Natacion
+
+* Escuchar nusica
+
+* Dibujar
